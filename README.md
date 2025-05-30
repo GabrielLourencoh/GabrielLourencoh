@@ -1,7 +1,6 @@
 # 👩🏻‍💻 Gabriel Lourenço
-*Desenvolvedor FullStack | Automação com RPA (Robotic Process Automation) | Aplicações com IA (Inteligência Artificial)
+Desenvolvedor FullStack | Automação com RPA (Robotic Process Automation) | Aplicações com IA (Inteligência Artificial)
 
-*
 Me chamo Gabriel Lourenço, tenho 15 anos e atualmente foco em ser desenvolvedor FullStack. Comecei na área de programação em 2023 utilizando Python, o Python foi um dos meus primeiros contatos com a programação, onde aprendi desde os fundamentos, como variáveis, condicionais, laços de repetição e funções, até conceitos mais avançados, como orientação a objetos e o uso de diversas bibliotecas Python, incluindo Pandas, NumPy, Matplotlib, Seaborn, Selenium, PyAutoGUI, Streamlit, entre outros. Sou dedicado à criação de websites e sistemas, sempre buscando aprender e aplicar boas práticas de desenvolvimento. Atualmente, curso Desenvolvimento de Sistemas, onde venho me aprofundando em tecnologias como HTML, CSS, PHP, Bootstrap, JavaScript, MySQL, Java e Kotlin. Além disso, estou cursando Desenvolvimento Web com Flask e Django, aprendendo cada vez mais sobre esses frameworks e me desafiando constantemente a evoluir como desenvolvedor.
 <!-- Linguagens e Framaeworks comentados estão sendo estudados -->
 ### 🤖 Linguagens e Tecnologias
@@ -141,14 +140,14 @@ numpy: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-or
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LanzaDev&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=GabrielLourencoh&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanzaDev&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLourencoh&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
