@@ -1,8 +1,6 @@
-# 👩🏻‍💻 Larissa Kich
-
-**`Desenvolvedora FullStack`**
-
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+# 👩🏻‍💻 Gabriel Lourenço
+**`Desenvolvedor FullStack`**
+Me chamo Gabriel Lourenço, tenho 15 anos e atualmente foco em ser desenvolvedor FullStack. Comecei na área de programação em 2023 utilizando Python, o Python foi um dos meus primeiros contatos com a programação, onde aprendi desde os fundamentos, como variáveis, condicionais, laços de repetição e funções, até conceitos mais avançados, como orientação a objetos e o uso de diversas bibliotecas Python, incluindo Pandas, NumPy, Matplotlib, Seaborn, Selenium, PyAutoGUI, Streamlit, entre outros. Sou dedicado à criação de websites e sistemas, sempre buscando aprender e aplicar boas práticas de desenvolvimento. Atualmente, curso Desenvolvimento de Sistemas, onde venho me aprofundando em tecnologias como HTML, CSS, PHP, Bootstrap, JavaScript, MySQL, Java e Kotlin. Além disso, estou cursando Desenvolvimento Web com Flask e Django, aprendendo cada vez mais sobre esses frameworks e me desafiando constantemente a evoluir como desenvolvedor.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
